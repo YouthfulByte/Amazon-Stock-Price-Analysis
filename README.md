@@ -64,7 +64,7 @@ Multiple traditional time series models are implemented and evaluated:
 - **Shorter forecast horizons (30 days)** yield significantly better results than longer periods.  
 - Models incorporating **seasonality and trend components** generally outperform basic models.  
 - **Exogenous variables** improve prediction accuracy in ARIMAX models.  
-- Performance metrics show that **_______ model** provided the best overall results with a **RMSE of _____** and **R² of _____**.  
+
 
 ---
 
